@@ -1,0 +1,22 @@
+.big-header{
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: burlywood;
+}
+
+#about-title{
+    font-style: italic;
+    color:cadetblue;
+}
+
+body{
+    padding-left: 5%;
+}
+
+.title-style{
+    font-style: oblique;
+}
+
+.big-header{
+    font-size: 48px;
+}
